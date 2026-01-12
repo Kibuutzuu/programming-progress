@@ -1,5 +1,4 @@
 #include <iostream>
-//Nombre: Joaquin Flores Alarcon
 
 const int N = 8; //el numero se ve de 0 a 8 si pongo N = 8, por ende, lo hago hasta el 7 para que esté la matriz inicializada en 8
 const int aristas = 12; //contadas a través del dibujo, era más fácil que programar algo que cuente aristas sinceramente
@@ -243,4 +242,5 @@ int main(){
     }while(num != 6);
 
     return 0;
+
 }
