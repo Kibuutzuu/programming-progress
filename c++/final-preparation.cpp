@@ -1,5 +1,4 @@
 #include <iostream>
-//Joaquin Flores Alarcon - P702
 const int N = 7; 
 const int aris = 8; //aristas, contadas por el dibujo del grafo
 
@@ -111,4 +110,5 @@ int main() {
         std::cout<<std::endl<<"No hay vecinos en ese vértice :C"<<std::endl;
     }
     return 0;
+
 }
